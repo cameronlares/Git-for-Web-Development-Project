@@ -38,10 +38,10 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     30. How do I write a comment in CSS?/* --*/
     31. How do I find out what file I am in, when I am using the command line? pwd
     32. Using the command line - how do I see a list of files/folders in my current folder? ls
-    33. How do I remove a file via the command line? Why do I have to be careful with this?  rm
-    34. Why should I use version control? 
-    35. How often should I commit to github?
-    36. What is the command we would use to push our repo up to github? 
+    33. How do I remove a file via the command line? Why do I have to be careful with this?  rm. You can delete info forever 
+    34. Why should I use version control? To save iterations of your file
+    35. How often should I commit to github? Every 20 minutes or new changes
+    36. What is the command we would use to push our repo up to github?  git push
     37. Walk me through Lambda's git flow. 
 
 Stretch Questions
