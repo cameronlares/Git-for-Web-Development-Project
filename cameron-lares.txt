@@ -1,0 +1,57 @@
+https://codepen.io/cameron-lares/pen/pojpxJO?editors=1100
+
+
+
+<!-- Questions to Submit in today's file first-lastname.txt --> 
+<!--
+Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
+
+    1. What is Semantic HTML?  Html that gives meaning to our content 
+    2. What is HTML used for? Used for the structure on our website
+    3. What is an attribute and where do we put it? Provides info on our HTML element and its added as a opening and closing tag
+    4. What is the h1 tag used for? How many times should I use it on a page? Header tag used for SEO purposes used as a title of a post. Used once
+    5. Name two tags that have required attributes? <input> <textarea>
+    6. What do we put in the head of our HTML document? <meta> <title> 
+    7. What is an id? A unique id html element that should only be specified once.
+    8. What elements can I add an id to? Any html element 
+    9. How many times can I use the same id on a page? Once
+    10. What is a class? Used to select a specific HTML element
+    11. What elements can I add a class to? H1,H2,P tags, any elements 
+    12. How many times can I use the same class on a page? As many times as neccessary 
+    13. How do I get my link to open in a new tab?  target="_blank">
+    14. What is the alt attribute in the image tag used for? Accessibility purposes 
+    15. How do I reference an id? # 
+    16. What is the difference between a section and a div? div is used when no other semantic element can be used and section is used to create division in your HTML document
+    17. What is CSS used for? To style your HTML document
+    18. How do we select an element? Example - every h2 on the page? h2{}
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one. #ID{width:600px} .class{color:#109921}  ID is best used globally on your HTML document once and classes are specifically used many times throughout your HTML document. Classes are not unique 
+    20. How do we select classes in CSS? by the .
+    21. How do we select a p element with a single class of “human””? <p class=".human"></p> .human{}
+    22. What is a parent child selector? When would this be useful? Useful to select elements with a specific parent, for example section>p 
+    23. How do you select all links within a div with the class of sidebar? div a {}
+    24. What is a pseudo selector? Used to change state of a selector such as :hover :focus 
+    25. What do we use the change the spacing between lines? break tag <b>
+    26. What do we use to change the spacing between letters?  You use line-height
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?  text-transform:capitalize;text-transform:uppercase;
+    28. How do I add a 1px border around my div that is dotted and black? border:1px solid black div{border-line:1px;}
+    29. How do I select everything on the page?  *{}
+    30. How do I write a comment in CSS?/* --*/
+    31. How do I find out what file I am in, when I am using the command line? pwd
+    32. Using the command line - how do I see a list of files/folders in my current folder? ls
+    33. How do I remove a file via the command line? Why do I have to be careful with this?  rm. You can delete info forever 
+    34. Why should I use version control? To save iterations of your file
+    35. How often should I commit to github? Every 20 minutes or new changes
+    36. What is the command we would use to push our repo up to github?  git push
+    37. Walk me through Lambda's git flow. 
+
+Stretch Questions
+
+    1. What is the difference between an inline element and a block element?
+    2. What happens when an element is positioned absolutely? 
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
+
+
+
+   --> 
